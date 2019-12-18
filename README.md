@@ -1,4 +1,4 @@
-:bike: <h1> Website Bikeshop </h1> :bike:
+<h1>:bike: Bikeshop Website :bike: </h1>
 
 <p>Este código foi desenvolvido durante o <a href="https://www.udemy.com/course/responsive-web-design-tutorial-course-html5-css3-bootstrap/">curso</a> na Udemy reproduzido por: <b>Daniel Walter Scott</b></p>
 
