@@ -18,4 +18,7 @@
 
 <h3> Links </h3>
 
-<p>Já posto os links, preciso chegar em casa para olhar em meu notebook rsrs</p>
+<p>https://fonts.google.com/</p>
+<p>https://fonts.adobe.com/</p>
+<p>https://www.iconfinder.com/</p>
+<p>https://material.io/</p>
