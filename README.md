@@ -22,3 +22,5 @@
 <p>https://fonts.adobe.com/</p>
 <p>https://www.iconfinder.com/</p>
 <p>https://material.io/</p>
+
+![alt text](https://github.com/voigtito/Site-BikeShop-Curso-Udemy/blob/master/Foto_site.JPG)
