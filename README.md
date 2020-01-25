@@ -1,8 +1,8 @@
-<h1>:bike: Bikeshop Website :bike: </h1>
+<h1 align="center">:bike: Bikeshop Website :bike: </h1>
 
 <p>Este código foi desenvolvido durante o <a href="https://www.udemy.com/course/responsive-web-design-tutorial-course-html5-css3-bootstrap/">curso</a> na Udemy reproduzido por: <b>Daniel Walter Scott</b></p>
 
-<p>Este site consiste na segunda aplicação realizada no curso da Udemy. O intuito desta parte do curso é aprofundar-se em conceitos mais específicos de HTML e CSS, auxiliando também em sites de busca de imagens/ícones e inspirações (links ao final da descrição) </p>
+<p align="justify">Este site consiste na segunda aplicação realizada no curso da Udemy. O intuito desta parte do curso é aprofundar-se em conceitos mais específicos de HTML e CSS, auxiliando também em sites de busca de imagens/ícones e inspirações (links ao final da descrição) </p>
 
 <h2>Principais conceitos desenvolvidos:</h2>
 
